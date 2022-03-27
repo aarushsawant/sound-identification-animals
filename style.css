@@ -1,0 +1,29 @@
+body{
+    background:red;
+    font-family: 'Lobster', cursive;
+}
+.header_div{
+    background-color: antiquewhite;
+    color: navy;
+}
+.header_div p{
+    font-size: 15px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    color:black
+}
+.main_div button{
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer{
+    text-align: center;
+    background-color: antiquewhite;
+    color:blueviolet;
+    bottom:0;
+    width:100%;
+    position:fixed;
+    line-height: 3;
+}
